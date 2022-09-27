@@ -6,8 +6,8 @@ import { DataSource } from "typeorm"
     host: "localhost",
     port: 5432,
     username: "postgres",
-    password: "Bright#123",
-    database: "sms",
+    password: "******",
+    database: "***",
     synchronize: false,
     entities: [
       User
